@@ -1,0 +1,173 @@
+
+
+
+
+
+/home/sepnov/anaconda3/envs/p2env/bin/python /home/sepnov/UrbanIndo/property-validity-guesser-version2/app/main.py
+=================================================
+=============== accuracy testing ================
+=================================================
+0 seed : 123456
+iter : 500 convergence:  0.00323190635721 loss:  0.241751332285
+iter : 1000 convergence:  0.00161058599899 loss:  0.241671613302
+iter : 1500 convergence:  0.00106723883626 loss:  0.241644265338
+iter : 2000 convergence:  0.000790906659576 loss:  0.2416303415
+iter : 2500 convergence:  0.000623345495126 loss:  0.241621901881
+iter : 3000 convergence:  0.000510931043677 loss:  0.241616242581
+iter : 3500 convergence:  0.000430333880007 loss:  0.241612186967
+iter : 4000 convergence:  0.000369760559708 loss:  0.241609140246
+iter : 4500 convergence:  0.000322605416487 loss:  0.241606769325
+iter : 5000 convergence:  0.000284880154672 loss:  0.241604873151
+iter : 5500 convergence:  0.000254034249048 loss:  0.241603323191
+iter : 6000 convergence:  0.000228360622004 loss:  0.241602033448
+iter : 6500 convergence:  0.000206673631336 loss:  0.241600944213
+iter : 7000 convergence:  0.000188124119628 loss:  0.241600012734
+iter : 7500 convergence:  0.000172087966824 loss:  0.241599207601
+iter : 8000 convergence:  0.000158096184414 loss:  0.241598505214
+iter : 8500 convergence:  0.000145789541184 loss:  0.241597887502
+iter : 9000 convergence:  0.000134888233068 loss:  0.241597340394
+iter : 9500 convergence:  0.00012517108311 loss:  0.241596852768
+iter : 10000 convergence:  0.000116460951564 loss:  0.241596415719
+final iter : 10001 convergence:  0.000116444439568 loss:  0.24159641489
+weight : [  0.46939912   0.72470726   1.99921437   1.33035248   2.51961947
+   3.43133409  11.38227432   7.57602132   3.46927367  -3.15168348]
+n-data with label 1 =  528  of total data:  766 ( 68.9295039164 %)
+accuracy  =  0.896866840731 ( 687 / 766 )
+precision =  0.949899799599
+recall    =  0.897727272727
+tp =  474 tn =  213 fp =  25 fn =  54
+________________________________________________
+1 seed : 234567
+iter : 500 convergence:  0.00317614574963 loss:  0.240673845478
+iter : 1000 convergence:  0.00158699696378 loss:  0.240595085923
+iter : 1500 convergence:  0.00105485787579 loss:  0.240567960526
+iter : 2000 convergence:  0.000783439820548 loss:  0.240554084599
+iter : 2500 convergence:  0.000618415682789 loss:  0.240545642444
+iter : 3000 convergence:  0.000507463993719 loss:  0.240539965795
+iter : 3500 convergence:  0.000427779828003 loss:  0.24053588941
+iter : 4000 convergence:  0.000367811306676 loss:  0.240532822307
+iter : 4500 convergence:  0.000321075747924 loss:  0.240530432611
+iter : 5000 convergence:  0.000283652510237 loss:  0.240528519554
+iter : 5500 convergence:  0.000253030647398 loss:  0.240526954547
+iter : 6000 convergence:  0.00022752742438 loss:  0.240525651421
+iter : 6500 convergence:  0.000205972804753 loss:  0.24052455027
+iter : 7000 convergence:  0.000187527991277 loss:  0.240523608154
+iter : 7500 convergence:  0.000171575950651 loss:  0.240522793494
+iter : 8000 convergence:  0.0001576526678 loss:  0.240522082543
+iter : 8500 convergence:  0.0001454024816 loss:  0.240521457106
+iter : 9000 convergence:  0.000134548201865 loss:  0.240520903003
+iter : 9500 convergence:  0.000124870599199 loss:  0.240520409022
+iter : 10000 convergence:  0.000116194007858 loss:  0.24051996618
+final iter : 10001 convergence:  0.000116177557744 loss:  0.24051996534
+weight : [  0.0873143    0.79760912   1.97534574   1.38454916   2.62779026
+   3.4087952   11.38086502   7.57308158   3.2341446   -2.74364954]
+n-data with label 1 =  530  of total data:  766 ( 69.1906005222 %)
+accuracy  =  0.878590078329 ( 673 / 766 )
+precision =  0.937875751503
+recall    =  0.883018867925
+tp =  468 tn =  205 fp =  31 fn =  62
+________________________________________________
+2 seed : 345678
+iter : 500 convergence:  0.00319473720372 loss:  0.239993193822
+iter : 1000 convergence:  0.00159127456809 loss:  0.239917612337
+iter : 1500 convergence:  0.00105661374409 loss:  0.239891628656
+iter : 2000 convergence:  0.000784369418265 loss:  0.239878327743
+iter : 2500 convergence:  0.00061897447941 loss:  0.239870228352
+iter : 3000 convergence:  0.000507828404481 loss:  0.239864778184
+iter : 3500 convergence:  0.000428031524269 loss:  0.239860862201
+iter : 4000 convergence:  0.000367992727793 loss:  0.23985791448
+iter : 4500 convergence:  0.000321210881307 loss:  0.239855616995
+iter : 5000 convergence:  0.000283755815657 loss:  0.239853777236
+iter : 5500 convergence:  0.000253111296836 loss:  0.23985227184
+iter : 6000 convergence:  0.000227591481535 loss:  0.239851018107
+iter : 6500 convergence:  0.000206024418253 loss:  0.239849958518
+iter : 7000 convergence:  0.000187570082578 loss:  0.239849051834
+iter : 7500 convergence:  0.00017161062842 loss:  0.239848267715
+iter : 8000 convergence:  0.000157681486783 loss:  0.239847583344
+iter : 8500 convergence:  0.000145426609524 loss:  0.239846981233
+iter : 9000 convergence:  0.000134568530303 loss:  0.239846447752
+iter : 9500 convergence:  0.000124887818881 loss:  0.239845972119
+iter : 10000 convergence:  0.000116208660792 loss:  0.239845545698
+final iter : 10001 convergence:  0.000116192206037 loss:  0.239845544889
+weight : [  0.24012082   0.90132428   1.96725793   1.87771895   2.45984373
+   3.45610237  11.4183858    7.63387973   3.24137585  -3.02313348]
+n-data with label 1 =  562  of total data:  766 ( 73.3681462141 %)
+accuracy  =  0.889033942559 ( 681 / 766 )
+precision =  0.963106796117
+recall    =  0.88256227758
+tp =  496 tn =  185 fp =  19 fn =  66
+________________________________________________
+=================================================
+================ short testing ==================
+=================================================
+iter : 500 convergence:  0.00322144903667 loss:  0.242673238116
+iter : 1000 convergence:  0.0016056969166 loss:  0.242595673392
+iter : 1500 convergence:  0.00106419417781 loss:  0.242570289924
+iter : 2000 convergence:  0.000788828754478 loss:  0.242557523916
+iter : 2500 convergence:  0.000621838200034 loss:  0.24254978525
+iter : 3000 convergence:  0.000509786682839 loss:  0.24254458527
+iter : 3500 convergence:  0.000429434328364 loss:  0.242540851853
+iter : 4000 convergence:  0.000369033982749 loss:  0.242538043057
+iter : 4500 convergence:  0.000322005680679 loss:  0.242535854765
+iter : 5000 convergence:  0.000284376282766 loss:  0.242534103034
+iter : 5500 convergence:  0.000253604662153 loss:  0.242532670063
+iter : 6000 convergence:  0.000227989818862 loss:  0.24253147692
+iter : 6500 convergence:  0.000206350182983 loss:  0.242530468732
+iter : 7000 convergence:  0.000187839409405 loss:  0.242529606173
+iter : 7500 convergence:  0.000171835371933 loss:  0.242528860318
+iter : 8000 convergence:  0.000157870527789 loss:  0.242528209423
+iter : 8500 convergence:  0.000145586715286 loss:  0.242527636824
+iter : 9000 convergence:  0.00013470493565 loss:  0.242527129537
+iter : 9500 convergence:  0.000125004628014 loss:  0.242526677296
+iter : 10000 convergence:  0.000116309130233 loss:  0.242526271875
+final iter : 10001 convergence:  0.000116292645544 loss:  0.242526271107
+weight : [  0.36944121   0.83110227   1.98860962   1.38510378   2.53479362
+   3.45653859  11.48269876   7.76922539   3.41799544  -2.85107086]
+property id : 954966196  :: real label: Incorrect predicted label: Incorrect
+property id : 558609413  :: real label: Incorrect predicted label: Incorrect
+property id : 834800059  :: real label: Incorrect predicted label: Incorrect
+property id : 850413455  :: real label: Correct predicted label: Correct
+property id : 565412892  :: real label: Incorrect predicted label: Correct
+property id : 784447089  :: real label: Incorrect predicted label: Incorrect
+property id : 117724082  :: real label: Correct predicted label: Incorrect
+property id : 145601851  :: real label: Incorrect predicted label: Correct
+property id : 239292565  :: real label: Incorrect predicted label: Incorrect
+property id : 524683395  :: real label: Incorrect predicted label: Incorrect
+property id : 972148380  :: real label: Incorrect predicted label: Incorrect
+property id : 687580364  :: real label: Incorrect predicted label: Incorrect
+property id : 571559107  :: real label: Correct predicted label: Correct
+property id : 623336255  :: real label: Incorrect predicted label: Incorrect
+property id : 103363247  :: real label: Incorrect predicted label: Incorrect
+property id : 910479072  :: real label: Incorrect predicted label: Incorrect
+property id : 711782775  :: real label: Correct predicted label: Correct
+property id : 693538794  :: real label: Incorrect predicted label: Incorrect
+property id : 392310535  :: real label: Incorrect predicted label: Incorrect
+property id : 879812151  :: real label: Incorrect predicted label: Incorrect
+property id : 498669329  :: real label: Incorrect predicted label: Incorrect
+property id : 864136499  :: real label: Incorrect predicted label: Incorrect
+property id : 475705297  :: real label: Incorrect predicted label: Incorrect
+property id : 981311630  :: real label: Incorrect predicted label: Incorrect
+property id : 851351290  :: real label: Incorrect predicted label: Incorrect
+property id : 626410872  :: real label: Incorrect predicted label: Incorrect
+property id : 870553789  :: real label: Incorrect predicted label: Incorrect
+property id : 797547142  :: real label: Incorrect predicted label: Incorrect
+property id : 552660943  :: real label: Incorrect predicted label: Incorrect
+property id : 401151529  :: real label: Correct predicted label: Incorrect
+property id : 292492574  :: real label: Incorrect predicted label: Incorrect
+property id : 108864324  :: real label: Incorrect predicted label: Incorrect
+property id : 200746224  :: real label: Incorrect predicted label: Incorrect
+property id : 611428894  :: real label: Correct predicted label: Correct
+property id : 201564653  :: real label: Correct predicted label: Incorrect
+property id : 244032882  :: real label: Incorrect predicted label: Incorrect
+property id : 835245951  :: real label: Incorrect predicted label: Incorrect
+property id : 655650587  :: real label: Incorrect predicted label: Incorrect
+property id : 251796592  :: real label: Incorrect predicted label: Incorrect
+property id : 299549948  :: real label: Incorrect predicted label: Incorrect
+property id : 835016081  :: real label: Incorrect predicted label: Incorrect
+property id : 612480673  :: real label: Correct predicted label: Incorrect
+property id : 554155338  :: real label: Incorrect predicted label: Incorrect
+property id : 720988690  :: real label: Correct predicted label: Correct
+property id : 278919777  :: real label: Incorrect predicted label: Incorrect
+property id : 624759620  :: real label: Correct predicted label: Incorrect
+
+Process finished with exit code 0
